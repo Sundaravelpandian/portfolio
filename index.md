@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Research projects
+## Hybrid Machine Learning 
 
-You can use the [editor on GitHub](https://github.com/Sundaravelpandian/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Link to conference paper](https://www.researchgate.net/publication/349427178_HYBRID_MACHINE_LEARNING_FOR_OCCUPANCY_DETECTION)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Explainable Machine Learning For Intutive Model Architectures 
 
-### Markdown
+[Link to journal publication](https://www.cambridge.org/core/journals/design-science/article/explainable-deep-convolutional-learning-for-intuitive-model-development-by-nonmachine-learning-domain-experts/D19ACDD64D0A6A5254F58F329D3D33C1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Deep Convolutional learning For Engineering Systems Based on Tabular Data 
 
-```markdown
-Syntax highlighted code block
+[Link to journal publication](https://www.sciencedirect.com/science/article/abs/pii/S1474034619305555)
 
-# Header 1
-## Header 2
-### Header 3
+## Component-Based Machine Learning
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sundaravelpandian/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Link to journal publication](https://www.sciencedirect.com/science/article/pii/S1474034617305359)
+[Link to conference paper](https://www.researchgate.net/publication/319209013_Component-Based_Machine_Learning_Modelling_Approach_For_Design_Stage_Building_Energy_Prediction_Weather_Conditions_And_Size)
