@@ -1,7 +1,7 @@
 # Research projects
 ## Hybrid Machine Learning 
-
 [Link to conference paper](https://www.researchgate.net/publication/349427178_HYBRID_MACHINE_LEARNING_FOR_OCCUPANCY_DETECTION)
+![img](/images/hybrid_ml.jpg)
 
 ## Explainable Machine Learning For Intutive Model Architectures 
 
