@@ -1,7 +1,7 @@
 # Research projects
 ## Hybrid Machine Learning 
 [Link to conference paper](https://www.researchgate.net/publication/349427178_HYBRID_MACHINE_LEARNING_FOR_OCCUPANCY_DETECTION)
-![img](https://github.com/Sundaravelpandian/portfolio/images/hybrid_ml.jpg)
+![img](https://github.com/Sundaravelpandian/portfolio/blob/gh-pages/images/hybrid_ml.JPG)
 
 ## Explainable Machine Learning For Intutive Model Architectures 
 
